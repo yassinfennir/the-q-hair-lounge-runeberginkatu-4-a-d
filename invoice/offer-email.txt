@@ -1,8 +1,8 @@
 TO: info@qhair.fi
 SUBJECT: The Q Hair Lounge / Runeberginkatu 4 a D — uusi verkkosivusto valmis + lasku (399€)
-PREVIEW: https://yef-qhair.netlify.app
+PREVIEW: https://yassinfennir.github.io/the-q-hair-lounge-runeberginkatu-4-a-d/
 INVOICE: YEF-2026-007
-DATE: 2026-03-18T02:46:05.426Z
+DATE: 2026-03-18T03:04:31.722Z
 
 Hei!
 
@@ -12,7 +12,7 @@ Tutustuin kampaamonne The Q Hair Lounge / Runeberginkatu 4 a D verkkosivustoon j
 
 Siksi tein teille ILMAISEKSI esikatselun uudesta, modernista verkkosivustosta:
 
-👉  https://yef-qhair.netlify.app
+👉  https://yassinfennir.github.io/the-q-hair-lounge-runeberginkatu-4-a-d/
 
 Katsokaa rauhassa — tama on tehty juuri teille, eika se maksa mitaan. Halusin nayttaa, milta teidän yrityksenne voi nayttaa verkossa.
 
